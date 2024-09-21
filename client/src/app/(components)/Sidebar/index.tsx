@@ -83,7 +83,7 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          src="/image/logo.svg"
+          src="https://s3-inventorymanagementofdat.s3.us-east-2.amazonaws.com/logo.png"
           alt="edstock-logo"
           width={27}
           height={27}
